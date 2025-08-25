@@ -10,17 +10,17 @@ decisions** through interactive reporting and visualization.
 
 This project integrates **PostgreSQL** for data storage and querying,
 and **Excel with Power Query & Power Pivot** for transformation,
-modeling, and dashboard creation. With a **large dataset of \~455,950
+modeling, and dashboard creation. With a **large dataset of \~455+ Lakh
 patient records**, the dashboard provides deep insights into **hospital
 operations, patient care, and financial performance**.
 
 Key capabilities include:\
-- 📊 Tracking **patient admissions, hospital utilization, and length of
+- Tracking **patient admissions, hospital utilization, and length of
 stay**\
-- 💰 Monitoring **admission deposits & financial contributions**\
-- 🛏️ Analyzing **bed usage by grade and severity of illness**\
-- 🏥 Comparing **departments and hospitals by patient volume**\
-- 📅 Exploring **monthly and yearly trends** for better resource
+-  Monitoring **admission deposits & financial contributions**\
+-  Analyzing **bed usage by grade and severity of illness**\
+-  Comparing **departments and hospitals by patient volume**\
+- Exploring **monthly and yearly trends** for better resource
 planning
 
 By combining **SQL-based analysis** with **Excel visualization**, this
@@ -29,7 +29,7 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objectives
+##  Objectives
 
 -   Track **patient admissions & hospital utilization**\
 -   Monitor **financial performance (admission deposits)**\
@@ -40,23 +40,7 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ------------------------------------------------------------------------
 
-## 🗂️ Project Files
-
--   **HealthCare_Schema.sql** → Database schema creation script\
--   **healthcare_Analysis.sql** → SQL queries for KPI & chart
-    generation\
--   **dashboard.xlsx** → Excel file with Power Pivot & dashboard\
--   **healthcare_datamodel.png** → Data model relationship diagram\
--   **HealthcareDashboardRequirements.pptx** → Project requirement
-    document\
--   **train_data.csv / test_data.csv** → Dataset for predictive analysis
-    (e.g., stay duration)\
--   **Raw Dataset (\~455,950 rows)** → Real-world scale healthcare
-    dataset used for analysis
-
-------------------------------------------------------------------------
-
-## 🔄 Project Processing -- How It Works
+##  Project Processing -- How It Works
 
 1.  **Database Creation**
     -   Import **train_data.csv** and **test_data.csv** into
@@ -88,7 +72,7 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ------------------------------------------------------------------------
 
-## 📊 KPIs Tracked
+##  KPIs Tracked
 
 -   Total Unique Patients\
 -   Total Cases / Hospital Visits\
@@ -98,7 +82,7 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ------------------------------------------------------------------------
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 -   **Top Departments by Patient Volume**\
 -   **Top Hospitals by Patient Volume**\
@@ -111,7 +95,7 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 -   **SQL** -- Data extraction & transformation\
 -   **Excel (Power Query, Power Pivot, Pivot Tables, Charts)** -- Data
@@ -123,20 +107,8 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ------------------------------------------------------------------------
 
-## 🛠 Tools Used
 
--   **PostgreSQL** -- Used as the database to store, modify, and query
-    large datasets (455k+ rows).\
--   **Excel** -- Used as the visualization and reporting layer to design
-    the dashboard.\
--   **Power Query** -- Performed data transformation, filtering, and
-    shaping before modeling.\
--   **Power Pivot** -- Built data models, relationships, and measures
-    for dashboard KPIs.
-
-------------------------------------------------------------------------
-
-## 🧩 Skills Applied
+##  Skills Applied
 
 -   **SQL (PostgreSQL)** -- Writing queries for KPIs, aggregations, and
     data transformations\
@@ -158,59 +130,11 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run the Project
 
-1.  Clone the repository:
-
-    ``` bash
-    git clone https://github.com/yourusername/Healthcare-Analysis-Dashboard.git
-    cd Healthcare-Analysis-Dashboard
-    ```
-
-2.  Set up the database schema:
-
-    ``` sql
-    Run HealthCare_Schema.sql in your SQL environment
-    ```
-
-3.  Load the **dataset (\~455,950 rows)** into tables (from CSVs).\
-
-4.  Run analysis queries:
-
-    ``` sql
-    Run healthcare_Analysis.sql
-    ```
-
-5.  Open **dashboard.xlsx** in Excel → Refresh Data → Explore
-    interactive dashboard.
-
-------------------------------------------------------------------------
-
-## 📷 Data Model
-
-![Data Model](healthcare_datamodel.png)
-
-------------------------------------------------------------------------
-
-## 📑 Requirements Reference
-
-The **project requirements** are documented in
-[HealthcareDashboardRequirements.pptx](HealthcareDashboardRequirements.pptx).
-
-------------------------------------------------------------------------
-
-## 🔮 Future Enhancements
-
--   Integration with **Power BI** for dynamic reporting\
--   Machine learning models for **patient stay prediction**\
--   Real-time data streaming from hospital systems
-
-------------------------------------------------------------------------
-
-## ✅ Conclusion
+##  Conclusion
 
 The **Healthcare Analysis Dashboard** successfully demonstrates how
-**large-scale healthcare data (\~455,950 records)** can be transformed
+**large-scale healthcare data (\~455+ Lakh records)** can be transformed
 into **actionable insights** using **SQL, Excel (Power Query & Power
 Pivot), and visualization techniques**.
 
@@ -228,8 +152,8 @@ analytics** in improving healthcare operations and patient care.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**\
-📧 your.email@example.com\
-🔗 [LinkedIn](#) \| [GitHub](#)
+**Nayan Patil**\
+📧 nayangpatil22@gmail.com\
+🔗 [LinkedIn](#) \| 
