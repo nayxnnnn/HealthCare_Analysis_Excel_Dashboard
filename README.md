@@ -30,9 +30,6 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ![Healthcare Dashboard](Finaldashboard.png)  
 
----
-
----
 
 ##  View the Dashboard Online  
 
@@ -51,7 +48,7 @@ You can view and interact with the Healthcare Dashboard here:
     departments)
 -   Provide **monthly & yearly trend analysis**
 
-------------------------------------------------------------------------
+
 
 ##  Project Processing -- How It Works
 
@@ -83,7 +80,7 @@ You can view and interact with the Healthcare Dashboard here:
     -   Assemble into a **Healthcare Dashboard** with filters (monthly,
         yearly)
 
-------------------------------------------------------------------------
+
 
 ##  Tech Stack
 
@@ -95,7 +92,6 @@ You can view and interact with the Healthcare Dashboard here:
     datasets
 -   **GitHub** -- Project documentation & version control
 
-------------------------------------------------------------------------
 
 
 ##  Skills Applied
@@ -118,7 +114,6 @@ You can view and interact with the Healthcare Dashboard here:
 -   **Large Dataset Handling** -- Managing and analyzing \~455k records
     efficiently
 
-------------------------------------------------------------------------
 
 
 ##  Conclusion
