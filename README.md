@@ -11,7 +11,7 @@ modeling, and dashboard creation. With a **large dataset of \~455+ Lakh
 patient records**, the dashboard provides deep insights into **hospital
 operations, patient care, and financial performance**.
 
-Key capabilities include:\
+Key capabilities include:
 - Tracking **patient admissions, hospital utilization, and length of
 stay**
 -  Monitoring **admission deposits & financial contributions**
@@ -32,8 +32,15 @@ analytics, and dashboard reporting** in a healthcare setting.
 
 ---
 
+---
 
-------------------------------------------------------------------------
+##  View the Dashboard Online  
+
+You can view and interact with the Healthcare Dashboard here:  
+
+🔗 [Click to View Dashboard](https://1drv.ms/x/c/e92176da1b1e2f5d/ERJBI9ZB8AlHuFE5m2X7wo4BR2rTliDDjQyVw_DjZS-B_w)  
+
+---
 
 ##  Objectives
 
