@@ -24,6 +24,15 @@ By combining **SQL-based analysis** with **Excel visualization**, this
 project demonstrates the **end-to-end process of data engineering,
 analytics, and dashboard reporting** in a healthcare setting.
 
+---
+
+##  Dashboard Preview  
+
+![Healthcare Dashboard](Finaldashboard.png)  
+
+---
+
+
 ------------------------------------------------------------------------
 
 ##  Objectives
@@ -129,4 +138,4 @@ analytics** in improving healthcare operations and patient care.
 
 **Nayan Patil**\
 📧 nayangpatil22@gmail.com\
-🔗 [LinkedIn](#) \| 
+🔗 [LinkedIn](www.linkedin.com/in/nayan-patil-592058265) \| 
