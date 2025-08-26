@@ -38,14 +38,6 @@ You can view and interact with the Healthcare Dashboard here:
 🔗 [Click to View Dashboard](https://1drv.ms/x/c/e92176da1b1e2f5d/ERJBI9ZB8AlHuFE5m2X7wo4BR2rTliDDjQyVw_DjZS-B_w)  
 
 
-## 🌐 View the Dashboard Online (Google Cloud Hosting)  
-
-🔗 [Click to View Dashboard](https://storage.googleapis.com/healthcare_dashboard/dashboard.xlsx)  
-
-*(Replace with your actual Google Cloud public URL)*  
-
----
-
 ##  Objectives
 
 -   Track **patient admissions & hospital utilization**
