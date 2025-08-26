@@ -40,7 +40,7 @@ You can view and interact with the Healthcare Dashboard here:
 
 ## 🌐 View the Dashboard Online (Google Cloud Hosting)  
 
-🔗 [Click to View Dashboard](https://storage.cloud.google.com/healthcare_dashboard/dashboard.xlsx?authuser=1)  
+🔗 [Click to View Dashboard](gs://healthcare_dashboard/dashboard.xlsx)  
 
 *(Replace with your actual Google Cloud public URL)*  
 
